@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://philnat.unibas.ch/de/forschung/promotionphd/">University of Basel</a> <a href="https://www.fmi.ch/">Friedrich Miescher Institute for Biomedical Research</a>. 
+description: <a href="https://philnat.unibas.ch/de/forschung/promotionphd/">University of Basel</a> <br> <a href="https://www.fmi.ch/">Friedrich Miescher Institute for Biomedical Research</a>. 
 
 profile:
   align: right
