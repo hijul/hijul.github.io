@@ -2,23 +2,19 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="https://philnat.unibas.ch/de/forschung/promotionphd/">University of Basel</a> <a href="https://www.fmi.ch/">Friedrich Miescher Institute for Biomedical Research</a>. 
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Basel, Switzerland</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a 4th year PhD student in the lab of [Andreas Luethi](https://www.fmi.ch/research-groups/groupleader.html?group=35), interested in how the brain integrates sensory stimuli to compute their Valence and Salience. In my work I concentrate on understanding the role of the amygdala in this process and use Miniscope Imaging, Two-Photon Imaging and Optogenetics to dissect it's contribution to these processes.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+During my Masters I contributed to a number of papers, while working with [Prof. Aristides Arrenberg](https://arrenberg-lab.de/), where we tried to understand the (1) the precise dependence of the optokinetic response (OKR) on stimulus location [(1)](https://elifesciences.org/articles/63355v1), (2) the tuning of neurons in pretectum and tectum to different Motion directions [(2)](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-019-0648-2), the receptive field structure of tectal and pretectal neurons [(3)](https://www.cell.com/cell-reports/pdf/S2211-1247(19)31681-X.pdf) and the impact of optical artifacts on visual neuroscience with small aquatic animals [(4)](https://www.nature.com/articles/s41598-021-81904-2).
