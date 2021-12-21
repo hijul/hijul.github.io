@@ -12,7 +12,7 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am a 4th year PhD student in the lab of [Andreas Luethi](https://www.fmi.ch/research-groups/groupleader.html?group=35), interested in how the brain integrates sensory stimuli to compute their Valence and Salience. In my work I concentrate on understanding the role of the amygdala in this process and use Miniscope Imaging, Two-Photon Imaging and Optogenetics to dissect it's contribution to these processes.
